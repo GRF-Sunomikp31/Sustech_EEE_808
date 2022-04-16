@@ -10,7 +10,7 @@
 
 南方科技大学电子与电气工程系统招研究生<font color=red>**808专业课**</font>相关资料；
 
-目前有： <span style="color: green"> Some green text </span>
+目前有： 
 
 ### 2.Retest
 
