@@ -38,7 +38,7 @@
 
 - 1、这是一个开源文档，该文档资料遵循 GPL （GNU General Public License），禁止商业使用该文档！
 
-2、
+- 2、
 
 ## Acknowledgements
 
