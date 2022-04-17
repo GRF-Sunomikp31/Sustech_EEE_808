@@ -54,7 +54,7 @@
 
 | Data      | News                                                         |
 | --------- | ------------------------------------------------------------ |
-| 2022-4-16 | 文档开源仓库成立了，目前比较有用的资料是[SME817](https://github.com/GRF-Sunomikp31/Sustech_EEE_808/tree/main/SME)相关资料。 |
+| 2022-4-16 | 文档开源仓库成立了，目前比较有用的资料是[SME817](https://github.com/GRF-Sunomikp31/Sustech_EEE_808/tree/main/4.SME)相关资料。 |
 |           |                                                              |
 |           |                                                              |
 |           |                                                              |
